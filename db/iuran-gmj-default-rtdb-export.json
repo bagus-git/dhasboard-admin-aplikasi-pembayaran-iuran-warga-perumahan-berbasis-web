@@ -1,0 +1,221 @@
+{
+  "admin": {
+    "nurkholis": {
+      "name": "Nurkholis",
+      "password": "123"
+    },
+    "supono": {
+      "name": "Supono",
+      "password": "54321"
+    }
+  },
+  "dashboard": {
+    "saldoKas": 375000,
+    "totalAdmin": 2,
+    "totalWarga": 10
+  },
+  "pembayaran": {
+    "10707609-9f8d-46e6-8eb3-e61da35f6ae7": {
+      "bank": "bri",
+      "orderId": "082280997037_1673035536377",
+      "periode": "7-1-2023",
+      "status": "settlement",
+      "transactionAmount": "125000.00",
+      "transactionTime": "2023-01-07 03:05:38",
+      "vaNumber": "670057287213699625",
+      "warga": "082280997037"
+    },
+    "57ff4698-b05e-46ba-b75b-d0b54fa0d394": {
+      "bank": "bca",
+      "orderId": "081254321098_1673036188499",
+      "periode": "6-1-2023,7-1-2023",
+      "status": "settlement",
+      "transactionAmount": "250000.00",
+      "transactionTime": "2023-01-07 03:16:30",
+      "vaNumber": "67005985624",
+      "warga": "081254321098"
+    }
+  },
+  "pengaturan": {
+    "bill": "125000",
+    "cost": "0"
+  },
+  "warga": {
+    "081254321098": {
+      "email": "gunawan@gmail.com",
+      "houseNumber": "05",
+      "idNumber": "505",
+      "name": "Gunawan W",
+      "password": "gun1234",
+      "pembayaran": {
+        "57ff4698-b05e-46ba-b75b-d0b54fa0d394": ""
+      },
+      "roadBlock": "Prawirotaman",
+      "status": true
+    },
+    "081378908765": {
+      "email": "hartono@gmail.com",
+      "houseNumber": "14",
+      "idNumber": "414",
+      "name": "Hartono",
+      "password": "lp4321",
+      "roadBlock": "Lempuyangan",
+      "status": false,
+      "tagihan": {
+        "6-1-2023": {
+          "bill": "125000",
+          "cost": "0"
+        },
+        "7-1-2023": {
+          "bill": "125000",
+          "cost": "0"
+        }
+      }
+    },
+    "082152345609": {
+      "email": "niki@gmail.com",
+      "houseNumber": "06",
+      "idNumber": "606",
+      "name": "Niki Nanda",
+      "password": "43215",
+      "roadBlock": "Siliran",
+      "status": false,
+      "tagihan": {
+        "6-1-2023": {
+          "bill": "125000",
+          "cost": "0"
+        },
+        "7-1-2023": {
+          "bill": "125000",
+          "cost": "0"
+        }
+      }
+    },
+    "082176890123": {
+      "email": "vico@gmail.com",
+      "houseNumber": "05",
+      "idNumber": "205",
+      "name": "Vico",
+      "password": "qwerty123",
+      "roadBlock": "Panembahan",
+      "status": false,
+      "tagihan": {
+        "6-1-2023": {
+          "bill": "125000",
+          "cost": "0"
+        },
+        "7-1-2023": {
+          "bill": "125000",
+          "cost": "0"
+        }
+      }
+    },
+    "082280997037": {
+      "email": "syaifull.id@gmail.com",
+      "houseNumber": "29",
+      "idNumber": "229",
+      "name": "Syaifulloh",
+      "password": "1234",
+      "pembayaran": {
+        "10707609-9f8d-46e6-8eb3-e61da35f6ae7": ""
+      },
+      "roadBlock": "Panembahan",
+      "status": true
+    },
+    "085269091695": {
+      "email": "adie@gmail.com",
+      "houseNumber": "01",
+      "idNumber": "200",
+      "name": "M Aulia Rosyadi",
+      "password": "pn01",
+      "roadBlock": "Panembahan",
+      "status": false,
+      "tagihan": {
+        "6-1-2023": {
+          "bill": "125000",
+          "cost": "0"
+        },
+        "7-1-2023": {
+          "bill": "125000",
+          "cost": "0"
+        }
+      }
+    },
+    "085609876543": {
+      "email": "lusia@gmail.com",
+      "houseNumber": "02",
+      "idNumber": "702",
+      "name": "Lusia Cahyaning",
+      "password": "ls333",
+      "roadBlock": "Langensari",
+      "status": false,
+      "tagihan": {
+        "6-1-2023": {
+          "bill": "125000",
+          "cost": "0"
+        },
+        "7-1-2023": {
+          "bill": "125000",
+          "cost": "0"
+        }
+      }
+    },
+    "085678905432": {
+      "email": "rachmat@gmail.com",
+      "houseNumber": "08",
+      "idNumber": "606",
+      "name": "Rachmat Salehah",
+      "password": "sl123",
+      "roadBlock": "Siliran",
+      "status": false,
+      "tagihan": {
+        "6-1-2023": {
+          "bill": "125000",
+          "cost": "0"
+        },
+        "7-1-2023": {
+          "bill": "125000",
+          "cost": "0"
+        }
+      }
+    },
+    "085709876512": {
+      "email": "sumar@gmail.com",
+      "houseNumber": "02",
+      "idNumber": "202",
+      "name": "Sumardiyono",
+      "password": "pn02",
+      "roadBlock": "Panembahan",
+      "status": false,
+      "tagihan": {
+        "6-1-2023": {
+          "bill": "125000",
+          "cost": "0"
+        },
+        "7-1-2023": {
+          "bill": "125000",
+          "cost": "0"
+        }
+      }
+    },
+    "085856732213": {
+      "email": "buwana@gmail.com",
+      "houseNumber": "37",
+      "idNumber": "137",
+      "name": "Indra Tri Buwana",
+      "password": "12123",
+      "roadBlock": "Wirobrajan",
+      "status": false,
+      "tagihan": {
+        "6-1-2023": {
+          "bill": "125000",
+          "cost": "0"
+        },
+        "7-1-2023": {
+          "bill": "125000",
+          "cost": "0"
+        }
+      }
+    }
+  }
+}
