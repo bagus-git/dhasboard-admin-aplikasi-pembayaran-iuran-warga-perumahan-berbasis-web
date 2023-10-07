@@ -1,7 +1,7 @@
 # Dhasboard Admin Aplikasi Pembayaran Iuran Warga Perumahan Berbasis Web 
 (Studi Kasus: Perumahan Green Mutiara Java Regency)
 
-Membuat Dhasboard Admin Aplikasi Pembayaran Iuran Warga Perumahan Berbasis Web untuk membantu Admin dalam  mengelolah data pembayaran dari warga yang masuk ke sistem.
+Membuat Dhasboard Admin Aplikasi Pembayaran Iuran Warga Perumahan Berbasis Web untuk membantu Admin/Pengurus dalam  mengelolah data pembayaran dari warga yang masuk ke sistem.
 
 ### Library:
 
@@ -32,6 +32,11 @@ Membuat Dhasboard Admin Aplikasi Pembayaran Iuran Warga Perumahan Berbasis Web u
 - Update Data Warga
 - Pengaturan Tagihan
 - Laporan Pembayaran
+
+### Tutorial:
+
+- npm install
+- npm run start
 
 # Preview
 
@@ -78,4 +83,6 @@ Membuat Dhasboard Admin Aplikasi Pembayaran Iuran Warga Perumahan Berbasis Web u
 - Laporan Pembayaran
 
 ![Img 10](documentation/10.png)
+
+
 
